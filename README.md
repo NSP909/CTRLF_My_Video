@@ -43,3 +43,6 @@ Our inspiration for this project stemmed from the inefficiencies depicted in det
 
 We welcome contributions to further enhance the capabilities and features of our AI video analysis web application. Feel free to fork the repository, make improvements, and submit pull requests.
 
+#Prizes
+
+Cipher Tech Solutions: “Best Digital Forensics Related Hack” at HoyaHacks   2024 
